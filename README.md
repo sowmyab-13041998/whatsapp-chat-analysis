@@ -8,7 +8,7 @@
 
 
 :+1:(note: i have imported my own family group chat for analysis!-----Strictly only for analysis purpose)
-
+** Example run on what contents exist in the project **
 ## Analysing top chats of the group (Overall)
 ![image](https://user-images.githubusercontent.com/107466533/204298648-3aab756b-1384-41d7-b579-754ad0fa9a73.png)
 
