@@ -21,7 +21,18 @@
 ## Most busy (overall)
 ![image](https://user-images.githubusercontent.com/107466533/204299282-93e9f383-bc0f-4216-93df-afbbc342788b.png)
 
-etc
+## Most busy users
+![image](https://user-images.githubusercontent.com/107466533/204301278-72e57ef2-2150-4d06-97fe-9c9805a5db52.png)
+
+## World cloud
+![image](https://user-images.githubusercontent.com/107466533/204301395-a27279ea-62db-4773-a0dd-e4c097d6ddde.png)
+
+## Most common words
+![image](https://user-images.githubusercontent.com/107466533/204302248-5dfffc30-3e75-46ff-864b-5ca67b190fbe.png)
+
+## Emoji analysis
+![image](https://user-images.githubusercontent.com/107466533/204302402-30f66cb9-7615-4260-b935-f18a5d1eb24e.png)
+
 
 
 
